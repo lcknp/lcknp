@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lcknp, aka Luca. Livin in BaWü.
-- 👀 I’m interested in Analog Photography, Sports and Coding.
+- 👀 I’m interested in Analog Photography and Coding.
 - 📫 How to reach me Instagram @lcknp
 
 <!---
