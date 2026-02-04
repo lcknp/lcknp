@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lcknp, aka Luca. Livin in BaWü.
 - 👀 I’m interested in Analog Photography and Coding.
-- 📫 How to reach me Instagram @lcknp
 
 <!---
 lcknp/lcknp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
